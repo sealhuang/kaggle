@@ -1,0 +1,7 @@
+location
+cabin_last_digit
+even -> port
+odd -> starboard
+or unknown
+
+
